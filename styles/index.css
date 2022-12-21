@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+
+
+}
+h1{
+	color:goldenrod;
+	margin-top: 10px;
+	margin-left: 300px;
+	font-size: 70px;
+}
+p{
+	font-size: 25px;
+	margin-left: 500px;
+}
+h2{
+	margin-left: 520px;
+}
+
+
+video{
+	width: 20%;
+	flex-wrap: wrap;
+	margin-left: 50px;
+	margin-bottom: 10px;
+
+}
+div{
+	border: 4px solid goldenrod;
+	color: snow;
+	margin-left: 100px;
+	margin-right: 100px;
+}
